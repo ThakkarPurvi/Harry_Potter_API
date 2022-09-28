@@ -1,6 +1,13 @@
 ## **Harry Potter API Project**
 
-https://img.shields.io/github/issues/ThakkarPurvi/Harry_Potter_API
+
+![Github issues](https://img.shields.io/github/issues/ThakkarPurvi/Harry_Potter_API)
+![Windows](https://svgshare.com/i/ZhY.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+
 
 [Project_Description](https://github.com/ThakkarPurvi/Harry_Potter_API#project_description)
 
