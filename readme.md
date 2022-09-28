@@ -1,5 +1,7 @@
 ## **Harry Potter API Project**
 
+https://img.shields.io/github/issues/ThakkarPurvi/Harry_Potter_API
+
 [Project_Description](https://github.com/ThakkarPurvi/Harry_Potter_API#project_description)
 
 [Tech Stack](https://github.com/ThakkarPurvi/Harry_Potter_API#tech-stack)
