@@ -1,0 +1,5 @@
+
+Name of the Character: Harry Potter
+House of the Character: Gryffindor
+Character gender is: male
+Character eyeColour is: green

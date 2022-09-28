@@ -1,0 +1,5 @@
+
+Name of the Character: Hermione Granger
+House of the Character: Gryffindor
+Character gender is: female
+Character eyeColour is: brown

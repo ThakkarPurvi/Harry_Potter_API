@@ -1,0 +1,5 @@
+
+Name of the Character: Draco Malfoy
+House of the Character: Slytherin
+Character gender is: male
+Character eyeColour is: grey

@@ -1,0 +1,5 @@
+
+Name of the Character: Cho Chang
+House of the Character: Ravenclaw
+Character gender is: female
+Character eyeColour is: brown
