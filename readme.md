@@ -6,7 +6,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
+![CodeFirstGirls](https://img.shields.io/badge/ProjectBy-CodeFirstGirls(CFG)-blue)
+![MoneyBox](https://img.shields.io/badge/SponsoredBy-MoneyBox-blue)
+![Harry Potter API](https://img.shields.io/badge/API-Harry__Pottter-red)
 
 
 [Project_Description](https://github.com/ThakkarPurvi/Harry_Potter_API#project_description)
