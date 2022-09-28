@@ -1,14 +1,14 @@
 ## **Harry Potter API Project**
 
-[Project_Description](##Project_Description)
+[Project_Description](https://github.com/ThakkarPurvi/Harry_Potter_API#project_description)
 
-[Tech Stack](##Tech-Stack)
+[Tech Stack](https://github.com/ThakkarPurvi/Harry_Potter_API#tech-stack)
 
-[Program](##Program)
+[Program](https://github.com/ThakkarPurvi/Harry_Potter_API#program)
 
-[Thank you](##Thank-you)
+[Thank you](https://github.com/ThakkarPurvi/Harry_Potter_API#team-members)
 
-[Profile](##Profile)
+[Profile](https://github.com/ThakkarPurvi/Harry_Potter_API#profile)
 
 ## **Project_Description**
 
@@ -27,6 +27,7 @@ This is a Harry Potter API search project craeted by CFG students as a project. 
 
 - [Harry Potter API](http://hp-api.herokuapp.com/api/characters)
 - [Extract Data from the Harry Potter API](http://hp-api.herokuapp.com/api/characters/students)
+        
         - Get response from the url
 
 **Back-end**
